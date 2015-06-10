@@ -1,0 +1,23 @@
+{
+  "name": "eOkul Average Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "This extension finds out average and displays on eOkul",
+  "homepage_url": "https://github.com/DenizUgur/eOkulAverage",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "https://e-okul.meb.gov.tr/IlkOgretim/Veli/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://e-okul.meb.gov.tr/IlkOgretim/Veli/IOV02002.aspx"],
+      "css": ["src/inject/inject.css"],
+      "js": ["src/inject/inject.js", "js/jquery/jquery.min.js"]
+    }
+  ]
+}
