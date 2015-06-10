@@ -9,4 +9,7 @@ Basically it parses totally 3 tables and does math over these tables to find out
  * main.script.js
  * README.md
 
+#Download
+[Download the extension](https://www.dropbox.com/s/4tt0r9ffyh0ziko/extension.crx?dl=1)
+
 Copyright © Deniz Uğur
