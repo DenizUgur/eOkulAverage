@@ -1,6 +1,6 @@
 {
   "name": "eOkul Average Extension",
-  "version": "1.0",
+  "version": "2.3.alpha",
   "manifest_version": 2,
   "update_url": "https://raw.githubusercontent.com/DenizUgur/eOkulAverage/master/extension/updates.xml",
   "description": "This extension finds out average and displays on eOkul",
