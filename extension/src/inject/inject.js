@@ -277,7 +277,6 @@ function displayAverage() {
 main();
 mathAverage();
 displayAverage();
-        console.log("Process finished.");
 	}
 	}, 10);
 });
