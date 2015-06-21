@@ -301,7 +301,7 @@ chrome.extension.sendMessage({}, function(response) {
                 totalAverage.css("font-family", "Verdana, sans-serif, Arial, Helvetica");
             }
 
-            main();
+            -main();
             mathAverage();
             displayAverage();
         }
