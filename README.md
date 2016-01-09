@@ -13,7 +13,7 @@ Contents
 
 Download
 -------------
-~~[Download the extension](https://www.dropbox.com/s/4tt0r9ffyh0ziko/extension.crx?dl=1)~~
+~~[Download the extension](https://github.com/DenizUgur/eOkulAverage/raw/master/extension/extension.crx)~~
 
 License
 -------------
