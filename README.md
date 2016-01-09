@@ -3,7 +3,7 @@ Basically it parses totally 3 tables and does math over these tables to find out
 
 STATE
 -------------
-* alpha Release.
+* Final Release. (w/ minor bugs)
 * Chrome extension added.
 
 Contents
@@ -13,10 +13,11 @@ Contents
 
 Download
 -------------
-~~[Download the extension](https://github.com/DenizUgur/eOkulAverage/raw/master/extension/extension.crx)~~
+[Download the extension](https://github.com/DenizUgur/eOkulAverage/raw/master/extension/extension.crx)
 
 License
 -------------
+```
 The MIT License (MIT)
 
 Copyright (c) 2015 Deniz Uğur
@@ -38,3 +39,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
