@@ -1,4 +1,6 @@
 # TABLE PARSE PROJECT
+[![Status](https://img.shields.io/badge/status-not%20working%20anymore-red.svg?style=flat)](#)
+
 Basically it parses totally 3 tables and does math over these tables to find out end of the year grade.
 
 STATE
